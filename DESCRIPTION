@@ -1,0 +1,14 @@
+Package: easypipe
+Type: Package
+Title: Functions that work well with %>%
+Version: 0.1.0
+Author: Yen Ting Chen
+Maintainer: Yen Ting Chen <tumhark@gmail.com>
+Description: Some home-made functions that I often used along with the pipe operator `%>%`.
+License: meeeeeee
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    tidyr
+RoxygenNote: 7.1.1
